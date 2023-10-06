@@ -240,7 +240,7 @@ const page = () => {
               </div>
             </div>
             <div className="lg:flex hidden flex-col  relative right-32 space-y-10 mt-10">
-              <div className="z-10 w-[315px] h-[337px] relative">
+              <div className="z-10 w-[415px] h-[337px] relative">
                 <Image
                   src="/_DSC4739.jpg"
                   fill
