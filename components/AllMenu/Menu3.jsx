@@ -28,13 +28,13 @@ const Menu3 = () => {
         " Accompagné paella, salade marocaine sauce tomate et sauce poulet, frites",
     },
     {
-      name: "EMINCE DE POULET",
+      name: " EMINCÉ DE POULET",
       price: "55 dh",
       description:
         " Accompagné paella, salade marocaine sauce tomate et sauce poulet, frites",
     },
     {
-      name: "BROUCHETTES DE POULET",
+      name: "BROCHETTES DE POULET",
       price: "35 dh",
       description: "accompagné salade marocaine sauce tomate et frites",
     },
