@@ -55,8 +55,8 @@ export default function SpecialDish() {
                   </div>
                   <div className="flex-col space-y-4 mr-auto w-full pl-6">
                     <p className="text-[#4E4F51] text-poppins text-[15px] font-400 leading-normal pl-2">
-                      Poulet rôti (accompagné de riz, frites <br /> sauce tomate
-                      cdrise et sauce poulet)
+                      à la sauce tomate accompagné d'une paella, salade
+                      marocaine, et des frites
                     </p>
                     <p className="font-bernier text-[#f09804] text-[32px] font-400 leading-normal pl-2">
                       49 DH
@@ -82,14 +82,14 @@ export default function SpecialDish() {
               <div className="flex flex-col   absolute space-x-1">
                 <div className="flex flex-row  items-center space-x-1 pl-4">
                   <span className="h-[3px] w-[40px] bg-[#f09804] ml-1 text-left"></span>
-                  <p className="text-[#0F1622]  md:text-[32px] text-[26px] font-bernier font-bold font-600 leading-normal space-x-4 p-4 text-left">
-                    EMINCE DE POULET
+                  <p className="text-[#0F1622]  md:text-[32px] text-[26px] font-bernier font-bold font-600 leading-normal space-x-4 p-4 text-left text-uppercase">
+                    EMINCÉ DE POULET
                   </p>
                 </div>
                 <div className="flex-col space-y-4 mr-auto w-full p-2">
                   <p className="text-[#4E4F51] text-poppins text-[15px] font-400 leading-normal pl-2">
-                    Poulet rôti (accompagné de riz, frites <br /> sauce tomate
-                    cdrise et sauce poulet)
+                    à la sauce tomate accompagné d'une paella, salade marocaine,
+                    et des frites
                   </p>
                   <p className="font-bernier text-[#f09804] text-[32px] font-400 leading-normal pl-2">
                     55 DH
@@ -116,13 +116,13 @@ export default function SpecialDish() {
                   <div className="flex flex-row justify-center items-center pl-4">
                     <span className="h-[3px] w-[40px] bg-[#f09804] ml-1 text-left"></span>
                     <p className="text-[#0F1622]  md:text-[32px] text-[22px] font-bernier font-bold font-600 leading-normal space-x-4 p-4 text-left">
-                      BROUCHETTES DE POULET{" "}
+                      BROCHETTES DE POULET{" "}
                     </p>
                   </div>
                   <div className="flex-col space-y-4 mr-auto w-full pl-6">
                     <p className="text-[#4E4F51] text-poppins text-[15px] font-400 leading-normal pl-2">
-                      accompagné salade marocaine sauce tomate <br />
-                      et frites
+                      à la sauce tomate accompagné d'une salade marocaine et des
+                      frites <br />
                     </p>
                     <p className="font-bernier text-[#f09804] text-[32px] font-400 leading-normal pl-2">
                       35 DH

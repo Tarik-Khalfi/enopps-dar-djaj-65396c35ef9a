@@ -26,7 +26,8 @@ export default function Main() {
             <div className="md:flex md:flex-row md:gap-5 flex-col   justify-center md:py-0 md:px-0  py-10 px-4">
               <div className="md:ml-20 mx-auto  md:justify-center md:flex ">
                 <Image
-                  src="/Food Icon-08 3.svg"
+                  src="/Layer 2(1).svg"
+                  // Layer 2.svg
                   width={60}
                   alt="food icon"
                   height={60}
@@ -35,9 +36,9 @@ export default function Main() {
               </div>
               <div className="md:flex md:flex-col md:col md:w-[70%] md:pr-[100px] mt-2 space-y-4 w-[100%] mx-auto px-1 ">
                 <p className="text-[#F09804] font-poppins text-[22px] font-600 leading-600 text-left md:text-left">
-                  Cuisine - Orientale
+                  Poulet
                 </p>
-                <p className="text-[14px] font-400 leading-[26px] font-poppins text-[#808080]  ">
+                <p className="text-[14px] font-400 leading-[26px] font-poppins text-[#808080]">
                   Sed ut perspiciatis unde omnis iste natus error sit voluptatem
                   accusantium doloremque laudantium
                 </p>
@@ -48,7 +49,7 @@ export default function Main() {
             <div className="md:flex md:flex-row md:gap-5 flex-col  justify-center md:py-0 md:px-0  py-10 px-4 ">
               <div className="md:ml-20 md:justify-center md:flex">
                 <Image
-                  src="/Layer 2.svg"
+                  src="/Vector.svg"
                   width={60}
                   alt="food icon"
                   height={60}
@@ -57,7 +58,7 @@ export default function Main() {
               </div>
               <div className="md:flex md:flex-col md:col md:w-[70%] md:pr-[100px] mt-2 space-y-4 w-[100%] mx-auto px-1 ">
                 <p className="text-[#F09804] font-poppins text-[22px] font-600 leading-600 text-left md:text-left">
-                  Cuisine - Coréenne
+                  Sandwich
                 </p>
                 <p className="text-[14px] font-400 leading-[26px] font-poppins text-[#808080]">
                   Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -70,7 +71,9 @@ export default function Main() {
             <div className="md:flex md:flex-row md:gap-5 flex-col  justify-center md:py-0 md:px-0  py-10 px-4">
               <div className="md:ml-20 md:justify-center md:flex">
                 <Image
-                  src="/Vector.svg"
+                  src="/Group.svg"
+                  //
+                  // Group.svg
                   width={60}
                   alt="food icon"
                   height={60}
@@ -79,7 +82,7 @@ export default function Main() {
               </div>
               <div className="md:flex md:flex-col md:col md:w-[70%] md:pr-[100px] mt-2 space-y-4 w-[100%] mx-auto px-1 ">
                 <p className="text-[#F09804] font-poppins text-[22px] font-600 leading-600 text-left md:text-left">
-                  Cuisine - Américaine
+                  Salade
                 </p>
                 <p className="text-[14px] font-400 leading-[26px] font-poppins text-[#808080]">
                   Sed ut perspiciatis unde omnis iste natus error sit voluptatem
@@ -92,7 +95,7 @@ export default function Main() {
             <div className="md:flex md:flex-row md:gap-5 flex-col  justify-center md:py-0 md:px-0  py-4 px-4 ">
               <div className="md:ml-20 md:justify-center md:flex">
                 <Image
-                  src="/Layer 2(1).svg"
+                  src="/Layer 2.svg"
                   width={60}
                   alt="food icon"
                   height={60}
@@ -101,7 +104,7 @@ export default function Main() {
               </div>
               <div className="md:flex md:flex-col md:col md:w-[70%] md:pr-[100px] mt-2 space-y-4 w-[100%] mx-auto px-1 ">
                 <p className="text-[#F09804] font-poppins text-[22px] font-600 leading-600 text-left md:text-left">
-                  Cuisine - Chinoise
+                  Assiettes
                 </p>
                 <p className="text-[14px] font-400 leading-[26px] font-poppins text-[#808080]">
                   Sed ut perspiciatis unde omnis iste natus error sit voluptatem

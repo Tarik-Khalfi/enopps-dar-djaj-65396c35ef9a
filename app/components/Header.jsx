@@ -43,7 +43,7 @@ export default function Header() {
             </Link>
           </div>
         </div>
-        <div className="lg:flex  relative  mt-[20px] lg:mt-[20px] flex flex-col-reverse  ">
+        {/* <div className="lg:flex  relative  mt-[20px] lg:mt-[20px] flex flex-col-reverse  ">
           <div className="masked lg:h-[290px] lg:w-[245px] h-[190px] w-[190px]  bg-[#e3c18d49] flex items-center justify-center  absolute  lg:top-[42.5%] lg:left-[10%]  lg:mt-[0px] left-0 bottom-0 z-50">
             <div className="masked lg:w-[240px] lg:h-[285px] h-[185px] w-[185px] ">
               <Image
@@ -64,7 +64,7 @@ export default function Header() {
               />
             </div>
           </div>
-        </div>
+        </div> */}
       </div>
       <Image
         src="/Group 5.svg"

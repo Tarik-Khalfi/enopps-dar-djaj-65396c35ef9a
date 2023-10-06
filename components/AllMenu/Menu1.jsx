@@ -6,17 +6,18 @@ const Menu1 = () => {
     {
       name: "Salade dar d’jaj",
       price: "35 dh",
-      description: "Poulet rôti, riz, mais",
+      description: "Poulet rôti, riz, maïs",
     },
     {
       name: "Salade niçoise",
       price: "35 dh",
-      description: "Pomme de terre, bettrave, carotte, riz, thon, oeuf , concombre, olive",
+      description:
+        "Pomme de terre, betterave, carotte, riz, thon, oeuf , concombre, olive",
     },
     {
       name: "Salade de thon",
       price: "22 dh",
-      description: "Poulet rôti, riz, mais",
+      description: "Poulet rôti, riz, maïs",
     },
     {
       name: "Salade Marocaine",
@@ -59,13 +60,15 @@ const Menu1 = () => {
                       {item.price}
                     </h3>
                   </div>
-                  <p className="font-poppins text-sm lg:text-base">{item?.description}</p>
+                  <p className="font-poppins text-sm lg:text-base">
+                    {item?.description}
+                  </p>
                 </div>
               );
             })}
           </div>
           <h3 className="text-[#F09804E5] text-2xl font-bernier ">
-            composez votre salade 45 dh
+            composez votre salade à 45 dh
           </h3>
         </div>
         <div className="hidden lg:block relative right-32  space-y-6">
