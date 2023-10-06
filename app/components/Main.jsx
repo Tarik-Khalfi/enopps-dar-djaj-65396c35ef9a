@@ -8,7 +8,7 @@ export default function Main() {
         src="/Group 51.svg"
         width={212}
         height={111}
-        alt=""
+        alt="shape"
         className="absolute right-0 top-[10%] lg:w-[212] w-[150px]"
       />
       <div className="md:container w-full mx-auto lg:px-10 mt-[100px] lg:mt-[90px] ">
@@ -16,9 +16,9 @@ export default function Main() {
           <p className="text-[#F09804] font-normal leading-normal text-[44px] mt-[96px] font-bernier">
             Decouvrez
           </p>
-          <h1 className="text-[#FFF] text-[36px]  font-[600] leading-normal font-poppins px-4">
+          <p className="text-[#FFF] text-[36px]  font-[600] leading-normal font-poppins px-4">
             Notre cuisine spéciale
-          </h1>
+          </p>
         </div>
 
         <div className="grid lg:grid-cols-2  lg:grid-rows-2  gap-y-10 lg:gap-x-5 md:justify-items-center  grid-cols-1">
@@ -28,7 +28,7 @@ export default function Main() {
                 <Image
                   src="/Food Icon-08 3.svg"
                   width={60}
-                  alt=""
+                  alt="food icon"
                   height={60}
                   className="w-[60px] mb-[20px] h-[60px] "
                 />
@@ -50,7 +50,7 @@ export default function Main() {
                 <Image
                   src="/Layer 2.svg"
                   width={60}
-                  alt=""
+                  alt="food icon"
                   height={60}
                   className="w-[60px] h-[60px]"
                 />
@@ -72,7 +72,7 @@ export default function Main() {
                 <Image
                   src="/Vector.svg"
                   width={60}
-                  alt=""
+                  alt="food icon"
                   height={60}
                   className="w-[60px] h-[60px]"
                 />
@@ -94,7 +94,7 @@ export default function Main() {
                 <Image
                   src="/Layer 2(1).svg"
                   width={60}
-                  alt=""
+                  alt="food icon"
                   height={60}
                   className="w-[60px] h-[60px]"
                 />

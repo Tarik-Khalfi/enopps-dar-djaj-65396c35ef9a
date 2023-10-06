@@ -9,8 +9,8 @@ export default function Home() {
     <main className="">
       <Header />
       <Main />
-      <SpecialDish />
       <Menu />
+      <SpecialDish />
       <Video />
     </main>
   );
