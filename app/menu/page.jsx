@@ -204,7 +204,7 @@ const page = () => {
                 width={415}
                 height={337}
                 alt=""
-                className="w-full"
+                className="w-full object-cover"
               />
             </div>
             <div className="bg-white  py-8 h-fit lg:mt-[290px] px-[30px] z-50 space-y-6   ">
@@ -240,13 +240,12 @@ const page = () => {
               </div>
             </div>
             <div className="lg:flex hidden flex-col  relative right-32 space-y-10 mt-10">
-              <div className="z-10">
+              <div className="z-10 w-[315px] h-[337px] relative">
                 <Image
                   src="/_DSC4739.jpg"
-                  width={415}
-                  height={337}
+                  fill
                   alt=""
-                  className="w-[415px] h-[337px] shapeMenu"
+                  className="w-[915px] h-[337px] shapeMenu absolute   object-cover object-left"
                 />
               </div>
               <div className="z-10">
